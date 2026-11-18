@@ -131,33 +131,33 @@ Below are examples of the six receipts processed by the application.
 
 **Receipt 1**
 
-![Receipt 1](./images/Receipt1.png)
+![Receipt 1](./Screenshots/Receipt1.png)
 
 **Receipt 2**
 
-![Receipt 2](./images/Receipt2.png)
+![Receipt 2](./Screenshots/Receipt2.png)
 
 **Receipt 3**
 
-![Receipt 3](./images/Receipt3.png)
+![Receipt 3](./Screenshots/Receipt3.png)
 
 **Receipt 4**
 
-![Receipt 4](./images/Receipt4.png)
+![Receipt 4](./Screenshots/Receipt4.png)
 
 **Receipt 5**
 
-![Receipt 5](./images/Receipt5.png)
+![Receipt 5](./Screenshots/Receipt5.png)
 
 **Receipt 6**
 
-![Receipt 6](./images/Receipt6.png)
+![Receipt 6](./Screenshots/Receipt6.png)
 
 ### 2. Amazon DynamoDB – Stored Receipt Records
 
 The extracted receipt information is successfully stored in the Amazon DynamoDB `Receipts` table.
 
-![DynamoDB Receipt Records](./images/DynamoDB.png)
+![DynamoDB Receipt Records](./Screenshots/DynamoDB.png)
 
 These records demonstrate how the application organizes and stores receipt information for future retrieval.
 
